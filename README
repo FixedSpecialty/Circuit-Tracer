@@ -1,6 +1,5 @@
 ****************
-* Project03 Circuit Tracer
-* CS-221
+* Circuit Tracer
 * 04-19-2019
 * Andre Murphy
 **************** 
@@ -109,4 +108,3 @@ Does using either of the storage structures guarantee that the first solution fo
 	- Yes for a queue because when searching each path length and each possibility, it was stop when the shrortest path is found. This
 	is not true for a stack because for a stack, it just searches randomly.
  
- EXTRA CREDIT: N/A
