@@ -1,0 +1,7 @@
+The program requires three command-line arguments:/n
+First argument:
+-s   -- use a stack for storage
+-q   -- use a queue for storage/n
+Second argument:
+-c   -- run program in console mode/n
+Third argument: name of the input file

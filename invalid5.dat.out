@@ -1,0 +1,5 @@
+InvalidFileFormatException: These are the only valid file characters: OXT12
+	at CircuitBoard.charScan(CircuitBoard.java:185)
+	at CircuitBoard.<init>(CircuitBoard.java:56)
+	at CircuitTracer.<init>(CircuitTracer.java:55)
+	at CircuitTracer.main(CircuitTracer.java:28)

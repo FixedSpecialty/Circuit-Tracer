@@ -1,0 +1,5 @@
+InvalidFileFormatException: Format error in dimensions
+	at CircuitBoard.checkSizeFormat(CircuitBoard.java:105)
+	at CircuitBoard.<init>(CircuitBoard.java:55)
+	at CircuitTracer.<init>(CircuitTracer.java:55)
+	at CircuitTracer.main(CircuitTracer.java:28)

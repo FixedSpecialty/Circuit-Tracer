@@ -1,0 +1,5 @@
+InvalidFileFormatException: For row count: 2
+	at CircuitBoard.checkSizeFormat(CircuitBoard.java:116)
+	at CircuitBoard.<init>(CircuitBoard.java:55)
+	at CircuitTracer.<init>(CircuitTracer.java:55)
+	at CircuitTracer.main(CircuitTracer.java:28)

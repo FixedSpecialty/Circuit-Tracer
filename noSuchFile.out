@@ -1,0 +1,5 @@
+java.io.FileNotFoundException: noSuchFile (The system cannot find the file specified)
+java.lang.NullPointerException
+	at CircuitTracer.searchAlgorithm(CircuitTracer.java:99)
+	at CircuitTracer.<init>(CircuitTracer.java:84)
+	at CircuitTracer.main(CircuitTracer.java:28)

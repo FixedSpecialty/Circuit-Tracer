@@ -1,0 +1,5 @@
+InvalidFileFormatException: This board has too many starting positions
+	at CircuitBoard.charScan(CircuitBoard.java:192)
+	at CircuitBoard.<init>(CircuitBoard.java:56)
+	at CircuitTracer.<init>(CircuitTracer.java:55)
+	at CircuitTracer.main(CircuitTracer.java:28)
